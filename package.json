@@ -1,6 +1,22 @@
 {
     "type": "commonjs",
     "dependencies": {
+        "express": "^4.21.1",
         "mongodb": "^6.10.0"
-    }
+    },
+    "name": "nodejs",
+    "version": "1.0.0",
+    "description": "Exploring the world inside the NodeJS.",
+    "main": "NodeJS101CreatingOurServer.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB",
+        "Moongoose"
+    ],
+    "author": "Mukesh Rawat",
+    "license": "ISC"
 }
