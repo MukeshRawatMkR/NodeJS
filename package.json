@@ -9,7 +9,8 @@
     "description": "Exploring the world inside the NodeJS.",
     "main": "NodeJS101CreatingOurServer.js",
     "scripts": {
-        "test": "jest"
+        "test": "jest",
+        "dev":"nodemon NodeJS101CreatingOurServer.js"
     },
     "keywords": [
         "NodeJS",
